@@ -1,27 +1,83 @@
-<h1 align="center">Hi 👋, I'm ISBANDU RAHUMAN R</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi there — I'm Isbandu Rahuman R
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=isbandurahuman-r&label=Profile%20views&color=0e75b6&style=flat" alt="isbandurahuman-r" /> </p>
+Software engineer • Open-source contributor • Problem solver
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isbandurahuman-r" alt="isbandurahuman-r" /></a> </p>
+I build reliable, user-centered applications and developer tools. I enjoy working on practical systems that make an impact and I am open to new opportunities and collaborations.
 
-- 🌱 I’m currently learning **WEBSITES,GUI AND ETC**
+---
 
-- 📫 How to reach me **riyasfamily7@gmail.com**
+## What I do
+- Build full‑stack web applications, APIs, and developer tooling.
+- Focus on performance, developer experience, and readable, testable code.
+- Learn and apply distributed systems, cloud-native patterns, and observability.
+- Contribute to open-source projects and mentor others.
+- Ask me about system design, JavaScript/TypeScript, Python, or cloud infrastructure.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/isbandu rahuman r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isbandu rahuman r" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/isbandu rahuman r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="isbandu rahuman r" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/isbandu_rahuman_r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="isbandu_rahuman_r" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@isbandu rahuman r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@isbandu rahuman r" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## Top skills
+- Languages: JavaScript / TypeScript • Python • Go  
+- Frontend: React • Next.js • Tailwind CSS  
+- Backend: Node.js • Express • FastAPI • PostgreSQL  
+- Infrastructure: Docker • Kubernetes • CI/CD • Terraform  
+- Testing: Jest • Playwright • PyTest
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isbandurahuman-r&show_icons=true&locale=en&layout=compact" alt="isbandurahuman-r" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isbandurahuman-r&show_icons=true&locale=en" alt="isbandurahuman-r" /></p>
+## Selected projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isbandurahuman-r&" alt="isbandurahuman-r" /></p>
+- TRUTH_LENS — https://github.com/ISBANDURAHUMAN-R/TRUTH_LENS  
+  Find whether a news item is fake or real and provide a clear classification.  
+  Tech highlights:
+  - Python — backend logic and AI processing
+  - FastAPI — REST API / backend
+  - Google Gemini / Google GenAI — AI-powered content/claim analysis
+  - Pydantic — request/response validation
+  - python-dotenv — environment variable management
+  - Next.js & TypeScript — frontend
+  - Tailwind CSS — UI styling
+  - CORS — frontend ↔ backend communication
+
+- QUANTUM-THREAT — https://github.com/ISBANDURAHUMAN-R/QUANTUM-THREAT  
+  Quantum-inspired system to detect digital fraud and suspicious activity using information-theoretic, non-AI methods.  
+  Tech highlights (based on repository contents):
+  - Python — core engines, simulators, and utilities
+  - NumPy and scientific utilities for metrics and benchmarks
+  - Non-AI statistical decision engines (Hoeffding bounds, exact binomial testing, QBER analysis)
+  - Monte Carlo benchmarking and automated test runner
+  - CLI and lightweight HTTP dashboard (HTML/CSS/JS) for visualization
+  - Project layout includes: core, threat_detection, simulation, ui, cli, tests, docs
+
+- Banking Management System — https://github.com/ISBANDURAHUMAN-R/Banking-Management-System  
+  Terminal-based banking management app for creating accounts, deposits/withdrawals, balance checks and transaction history. Uses CSV storage for accounts and transactions.  
+  Tech highlights:
+  - Python (single-file CLI app)
+  - CSV file handling (accounts.csv, transactions.csv)
+  - Simple, dependency-free implementation suitable as an educational/demo project
+
+---
+
+## Open source & community
+- Contributor and maintainer across repositories in my GitHub profile.
+- I review pull requests, write documentation, and help newcomers get started.
+
+---
+
+## Achievements
+- Second place — International Hackathon PEC25  
+- Third place — AI prompt, Panimalar College
+
+---
+
+## Contact
+- Public email: riyasfamily7@gmail.com  
+- GitHub: https://github.com/ISBANDURAHUMAN-R  
+- Website: https://webportfoliocodsoft.netlify.app  
+- LinkedIn: https://linkedin.com/in/isbandu-rahuman-r-4b855b396
+
+---
+
+## Availability
+Open to work — available for full-time roles, freelance, and collaborations. Please reach out to discuss opportunities.
+
+---

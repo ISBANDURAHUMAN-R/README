@@ -70,10 +70,13 @@ I build reliable, user-centered applications and developer tools. I enjoy workin
 ---
 
 ## Contact
+## 🌐 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-ISBANDURAHUMAN--R-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ISBANDURAHUMAN-R)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Isbandu%20Rahuman%20R.-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isbandu-rahuman-r-4b855b396)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://webportfoliocodsoft.netlify.app/)
 - Public email: riyasfamily7@gmail.com  
-- GitHub: https://github.com/ISBANDURAHUMAN-R  
-- Website: https://webportfoliocodsoft.netlify.app  
-- LinkedIn: https://linkedin.com/in/isbandu-rahuman-r-4b855b396
+
 
 ---
 

@@ -77,7 +77,7 @@ I contribute to and maintain several repositories on my GitHub profile, where I 
 
 I'm always glad to talk about a role, a project, or just an interesting problem.
 
-- **Email:** [riyasfamily7@gmail.com](mailto:r1rahuman@gmail.com)
+- **Email:** [r1rahuman@gmail.com](mailto:r1rahuman@gmail.com)
 - **LinkedIn:** [isbandu-rahuman-r](https://linkedin.com/in/isbandu-rahuman-r-4b855b396)
 - **Portfolio:** [webportfoliocodsoft.netlify.app](https://webportfoliocodsoft.netlify.app/)
 

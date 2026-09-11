@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Isbandu+Rahuman+R;Software+Engineer;Open-Source+Contributor;Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Isbandu+Rahuman+R;)](https://git.io/typing-svg)
 
 I build reliable, user-centered applications and developer tools — practical systems that make an impact.
 
@@ -37,9 +37,8 @@ Feel free to reach out about system design, JavaScript/TypeScript, Python, or cl
 
 ## Contribution Activity
 
-<div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/ISBANDURAHUMAN-R/ISBANDURAHUMAN-R/output/github-contribution-grid-snake.svg)
+
 
 </div>
 

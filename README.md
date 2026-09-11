@@ -1,8 +1,6 @@
 <div align="center">
 
-# Isbandu Rahuman R
-
-**Software Engineer · Open-Source Contributor · Problem Solver**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Isbandu+Rahuman+R;Software+Engineer;Open-Source+Contributor;Problem+Solver)](https://git.io/typing-svg)
 
 I build reliable, user-centered applications and developer tools — practical systems that make an impact.
 
@@ -34,6 +32,38 @@ Feel free to reach out about system design, JavaScript/TypeScript, Python, or cl
 | **Backend** | Node.js · Express · FastAPI · PostgreSQL |
 | **Infrastructure** | Docker · Kubernetes · CI/CD · Terraform |
 | **Testing** | Jest · Playwright · PyTest |
+
+<br>
+
+## Contribution Activity
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/ISBANDURAHUMAN-R/ISBANDURAHUMAN-R/output/github-contribution-grid-snake.svg)
+
+</div>
+
+This animated grid redraws your real GitHub contribution graph every day. It isn't live yet — set it up once and GitHub keeps it moving on its own:
+
+1. In the `ISBANDURAHUMAN-R/ISBANDURAHUMAN-R` repo, add a workflow file at `.github/workflows/snake.yml` using the [`Platane/snk`](https://github.com/Platane/snk) action (its README has the exact YAML to copy).
+2. Run the workflow once from the **Actions** tab — it generates the SVG and commits it to an `output` branch.
+3. The image link above already points at that branch, so once the action runs, the snake appears and refreshes automatically on a daily schedule.
+
+<br>
+
+## See Me Code
+
+<div align="center">
+
+<!-- Swap this line for a short screen recording of you coding, converted to a GIF -->
+<img src="./assets/coding-demo.gif" width="720" alt="A short clip of my terminal / editor while building a project" />
+
+</div>
+
+To add a real clip instead of a placeholder:
+1. Record a short terminal or editor session (e.g. with [ScreenToGif](https://www.screentogif.com/) on Windows, or `Kap`/`peek` on Mac/Linux).
+2. Trim it to 5–15 seconds and export as `.gif` — keep it under a few MB so it loads fast on GitHub.
+3. Commit it to this repo as `assets/coding-demo.gif` and the line above will pick it up automatically.
 
 <br>
 

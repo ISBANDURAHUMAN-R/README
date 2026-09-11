@@ -1,86 +1,89 @@
-# Hi there — I'm Isbandu Rahuman R
+<div align="center">
 
-Software engineer • Open-source contributor • Problem solver
+# Isbandu Rahuman R
 
-I build reliable, user-centered applications and developer tools. I enjoy working on practical systems that make an impact and I am open to new opportunities and collaborations.
+**Software Engineer · Open-Source Contributor · Problem Solver**
 
----
+I build reliable, user-centered applications and developer tools — practical systems that make an impact.
 
-## What I do
-- Build full‑stack web applications, APIs, and developer tooling.
-- Focus on performance, developer experience, and readable, testable code.
-- Learn and apply distributed systems, cloud-native patterns, and observability.
-- Contribute to open-source projects and mentor others.
-- Ask me about system design, JavaScript/TypeScript, Python, or cloud infrastructure.
+[![GitHub](https://img.shields.io/badge/GitHub-ISBANDURAHUMAN--R-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ISBANDURAHUMAN-R)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Isbandu%20Rahuman%20R-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/isbandu-rahuman-r-4b855b396)
+[![Portfolio](https://img.shields.io/badge/Portfolio-webportfoliocodsoft.netlify.app-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://webportfoliocodsoft.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-riyasfamily7%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:riyasfamily7@gmail.com)
 
----
+</div>
 
-## Top skills
-- Languages: JavaScript / TypeScript • Python • Go  
-- Frontend: React • Next.js • Tailwind CSS  
-- Backend: Node.js • Express • FastAPI • PostgreSQL  
-- Infrastructure: Docker • Kubernetes • CI/CD • Terraform  
-- Testing: Jest • Playwright • PyTest
+<br>
 
----
+## About
 
-## Selected projects
+I build full-stack web applications, APIs, and developer tooling, with a focus on performance, developer experience, and code that's readable and testable. I'm currently deepening my work in distributed systems, cloud-native patterns, and observability, and I contribute to open-source projects where I can — reviewing pull requests, writing docs, and helping newcomers get their first PR merged.
 
-- TRUTH_LENS — https://github.com/ISBANDURAHUMAN-R/TRUTH_LENS  
-  Find whether a news item is fake or real and provide a clear classification.  
-  Tech highlights:
-  - Python — backend logic and AI processing
-  - FastAPI — REST API / backend
-  - Google Gemini / Google GenAI — AI-powered content/claim analysis
-  - Pydantic — request/response validation
-  - python-dotenv — environment variable management
-  - Next.js & TypeScript — frontend
-  - Tailwind CSS — UI styling
-  - CORS — frontend ↔ backend communication
+Feel free to reach out about system design, JavaScript/TypeScript, Python, or cloud infrastructure — I enjoy those conversations.
 
-- QUANTUM-THREAT — https://github.com/ISBANDURAHUMAN-R/QUANTUM-THREAT  
-  Quantum-inspired system to detect digital fraud and suspicious activity using information-theoretic, non-AI methods.  
-  Tech highlights (based on repository contents):
-  - Python — core engines, simulators, and utilities
-  - NumPy and scientific utilities for metrics and benchmarks
-  - Non-AI statistical decision engines (Hoeffding bounds, exact binomial testing, QBER analysis)
-  - Monte Carlo benchmarking and automated test runner
-  - CLI and lightweight HTTP dashboard (HTML/CSS/JS) for visualization
-  - Project layout includes: core, threat_detection, simulation, ui, cli, tests, docs
+**Currently open to full-time roles, freelance work, and collaborations.**
 
-- Banking Management System — https://github.com/ISBANDURAHUMAN-R/Banking-Management-System  
-  Terminal-based banking management app for creating accounts, deposits/withdrawals, balance checks and transaction history. Uses CSV storage for accounts and transactions.  
-  Tech highlights:
-  - Python (single-file CLI app)
-  - CSV file handling (accounts.csv, transactions.csv)
-  - Simple, dependency-free implementation suitable as an educational/demo project
+<br>
 
----
+## Skills
 
-## Open source & community
-- Contributor and maintainer across repositories in my GitHub profile.
-- I review pull requests, write documentation, and help newcomers get started.
+| | |
+|---|---|
+| **Languages** | JavaScript · TypeScript · Python · Go |
+| **Frontend** | React · Next.js · Tailwind CSS |
+| **Backend** | Node.js · Express · FastAPI · PostgreSQL |
+| **Infrastructure** | Docker · Kubernetes · CI/CD · Terraform |
+| **Testing** | Jest · Playwright · PyTest |
 
----
+<br>
+
+## Selected Projects
+
+### [TRUTH_LENS](https://github.com/ISBANDURAHUMAN-R/TRUTH_LENS)
+Classifies whether a news item is fake or real, with a clear, explainable verdict.
+- **Backend:** Python + FastAPI, with Pydantic for request/response validation
+- **AI:** Google Gemini / Google GenAI for claim and content analysis
+- **Frontend:** Next.js + TypeScript, styled with Tailwind CSS
+- Configured for cross-origin frontend–backend communication (CORS), with environment management via `python-dotenv`
+
+### [QUANTUM-THREAT](https://github.com/ISBANDURAHUMAN-R/QUANTUM-THREAT)
+A quantum-inspired system for detecting digital fraud and suspicious activity using information-theoretic, **non-AI** methods.
+- Statistical decision engines built on Hoeffding bounds, exact binomial testing, and QBER analysis
+- Monte Carlo benchmarking with an automated test runner, powered by NumPy and other scientific utilities
+- CLI and a lightweight HTTP dashboard (HTML/CSS/JS) for visualizing results
+- Organized into clear modules: `core`, `threat_detection`, `simulation`, `ui`, `cli`, `tests`, `docs`
+
+### [Banking Management System](https://github.com/ISBANDURAHUMAN-R/Banking-Management-System)
+A terminal-based banking app for creating accounts, making deposits and withdrawals, checking balances, and reviewing transaction history.
+- Single-file Python CLI application
+- CSV-based storage (`accounts.csv`, `transactions.csv`)
+- Dependency-free by design — built to be easy to read as an educational or demo project
+
+<br>
+
+## Open Source & Community
+
+I contribute to and maintain several repositories on my GitHub profile, where I review pull requests, write documentation, and help newcomers get started.
+
+<br>
 
 ## Achievements
-- Second place — International Hackathon PEC25  
-- Third place — AI prompt, Panimalar College
 
----
+- 🥈 2nd Place — International Hackathon, PEC25
+- 🥉 3rd Place — AI Prompt Challenge, Panimalar Engineering College
 
-## Contact
-## 🌐 Connect With Me
+<br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-ISBANDURAHUMAN--R-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ISBANDURAHUMAN-R)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Isbandu%20Rahuman%20R.-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isbandu-rahuman-r-4b855b396)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://webportfoliocodsoft.netlify.app/)
-- Public email: riyasfamily7@gmail.com  
+## Get in Touch
 
+I'm always glad to talk about a role, a project, or just an interesting problem.
 
----
+- **Email:** [riyasfamily7@gmail.com](mailto:riyasfamily7@gmail.com)
+- **LinkedIn:** [isbandu-rahuman-r](https://linkedin.com/in/isbandu-rahuman-r-4b855b396)
+- **Portfolio:** [webportfoliocodsoft.netlify.app](https://webportfoliocodsoft.netlify.app/)
 
-## Availability
-Open to work — available for full-time roles, freelance, and collaborations. Please reach out to discuss opportunities.
+<div align="center">
 
----
+<sub>Thanks for stopping by — feel free to star a repo or open an issue if something catches your eye.</sub>
+
+</div>

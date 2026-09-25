@@ -6,7 +6,8 @@ I build reliable, user-centered applications and developer tools — practical s
 
 [![GitHub](https://img.shields.io/badge/GitHub-ISBANDURAHUMAN--R-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ISBANDURAHUMAN-R)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Isbandu%20Rahuman%20R-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/isbandu-rahuman-r-4b855b396)
-[![Portfolio](https://img.shields.io/badge/Portfolio-portfoliorahuman.netlify.app-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://webportfoliocodsoft.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-
+portfoliorahuman.netlify.app-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://portfoliorahuman.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-r1rahuman%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:r1rahuman@gmail.com)
 
 </div>
@@ -79,7 +80,7 @@ I'm always glad to talk about a role, a project, or just an interesting problem.
 
 - **Email:** [r1rahuman@gmail.com](mailto:r1rahuman@gmail.com)
 - **LinkedIn:** [isbandu-rahuman-r](https://linkedin.com/in/isbandu-rahuman-r-4b855b396)
-- **Portfolio:** [portfoliorahuman.netlify.app](https://portfoliorahuman.netlify.app/)
+- **Portfolio:** [portfoliorahuman.netlify.app](https://portfoliorahuman..netlify.app/)
 
 <div align="center">
 
